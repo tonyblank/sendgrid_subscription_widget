@@ -1,4 +1,4 @@
-exports.url = 'http://localhost:3090';
-exports.senderEmail = "sender@example.com";
-exports.senderName = "Example Sender";
-exports.listID = 348282;
+exports.url = 'http://https://sendgrid-open-source-widget.herokuapp.com/';
+exports.senderEmail = "hello@tonyblank.com";
+exports.senderName = "Tony Blank";
+exports.listID = 492898;
